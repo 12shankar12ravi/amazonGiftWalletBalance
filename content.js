@@ -5,7 +5,7 @@ window.onload = executeProcess();
 
 setInterval(function() {
     executeProcess();
-}, 60 * 1000);
+}, 1800 * 1000);
 
 
 function executeProcess(){
